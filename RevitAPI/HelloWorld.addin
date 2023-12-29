@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Command">
+
+		<Assembly>E:\VandanaWorkspace\RevitAPI\RevitAPI\bin\Debug\RevitAPI.dll</Assembly>
+
+		<AddInId>239BD853-36E4-461f-9171-C5ACEDA4E721</AddInId>
+
+		<FullClassName>RevitAPI.Class1</FullClassName>
+
+		<Text>HelloWorld</Text>
+
+		<VendorId>NAME</VendorId>
+
+		<VendorDescription>Your Company Information</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
