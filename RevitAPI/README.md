@@ -23,6 +23,12 @@ Opened Revit and executed the "Hello World" command to test the functionality.
 Ensured the message appeared as expected within Revit using the TaskDialog.
 Reviewed the code, made improvements, and considered potential enhancements for future functionality.
 Project Structure
+
+
+![Screenshot (178)](https://github.com/mvanadana/RevitAPI/assets/149364066/195e566f-31c8-48bc-a673-8205fb5a5b0e)
+
+
+
 ## Class1.cs:
 Contains the main command logic.
 ## RevitAPI.csproj: 
